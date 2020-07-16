@@ -17,7 +17,7 @@
 //   * insert
 
 #include <initializer_list>
-
+#include "algo.h"
 #include "iterator.h"
 #include "memory.h"
 #include "util.h"
